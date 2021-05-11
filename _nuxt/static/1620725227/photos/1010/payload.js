@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/1010", {data:[{photo:{id:"1010",author:"Samantha Sophia",width:5184,height:3456,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002FNaWKMlp3tVs",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F1010\u002F5184\u002F3456"}}],fetch:{},mutations:[]});

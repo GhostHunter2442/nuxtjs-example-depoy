@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/1020", {data:[{photo:{id:"1020",author:"Adam Willoughby-Knox",width:4288,height:2848,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002F_snqARKTgoc",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F1020\u002F4288\u002F2848"}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/1023", {data:[{photo:{id:"1023",author:"William Hook",width:3955,height:2094,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002F93Ep1dhTd2s",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F1023\u002F3955\u002F2094"}}],fetch:{},mutations:[]});

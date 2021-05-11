@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/1022", {data:[{photo:{id:"1022",author:"Vashishtha Jogi",width:6000,height:3376,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002FbClr95glx6k",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F1022\u002F6000\u002F3376"}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/101", {data:[{photo:{id:"101",author:"Christian Bardenhorst",width:2621,height:1747,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002F8lMhzUjD1Wk",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F101\u002F2621\u002F1747"}}],fetch:{},mutations:[]});

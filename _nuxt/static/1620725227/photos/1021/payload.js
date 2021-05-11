@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/photos/1021", {data:[{photo:{id:"1021",author:"Frances Gunn",width:2048,height:1206,url:"https:\u002F\u002Funsplash.com\u002Fphotos\u002F8BmNurlVR6M",download_url:"https:\u002F\u002Fpicsum.photos\u002Fid\u002F1021\u002F2048\u002F1206"}}],fetch:{},mutations:[]});
